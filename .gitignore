@@ -2,6 +2,8 @@
 *.swp
 *.ipynb_checkpoints/
 2015/*
-RC_2015-05.json
+data/RC_2015-05.json
 to-do.md
 march_2_2017_registration.txt
+.DS_Store
+__pycache__/
